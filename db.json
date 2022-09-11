@@ -1,0 +1,10 @@
+{
+	"db": {
+		"type_data": [
+			"string",
+			1,
+			{"object": "json"},
+			["array"]
+		]
+	}
+}
